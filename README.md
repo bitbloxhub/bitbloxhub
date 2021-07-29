@@ -1,3 +1,3 @@
 ### bitbloxhub
 
-i like github, python, gopher, ethereum, IPFS, and tor
+i like github, python, gopher, RISC-V, ethereum, IPFS, and tor
