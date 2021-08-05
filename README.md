@@ -1,3 +1,3 @@
 ### bitbloxhub
 
-i like github and ember.js
+i like raw hex editing for the nes
