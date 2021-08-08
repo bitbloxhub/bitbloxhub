@@ -1,3 +1,3 @@
 ### bitbloxhub
 
-i like raw hex editing for the nes
+i like linux, bash progrmming that can depend on pip clis, tor, riscv, and more
